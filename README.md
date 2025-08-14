@@ -1,6 +1,6 @@
 # 📊 10+ MS Excel Data Analytics Projects
 
-Welcome to my **MS Excel Data Analytics Projects** repository! This repo showcases **4 key projects** designed to highlight practical, job-ready Excel skills every data analyst should have. From cleaning raw data to creating dashboards and actionable insights, these projects demonstrate my ability to **turn data into decisions**.
+Welcome to my **MS Excel Data Analytics Projects** repository! This repo showcases **10+ key projects** designed to highlight practical, job-ready Excel skills every data analyst should have. From cleaning raw data to creating dashboards and actionable insights, these projects demonstrate my ability to **turn data into decisions**.
 
 ---
 
